@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * A basic Number Guesser game.
+ * A basic Number Guesser game. Ranges from 0-100
  *
  * @author David Herring
  * @version 3/11/19
